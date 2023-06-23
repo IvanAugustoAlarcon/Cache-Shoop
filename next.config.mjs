@@ -4,6 +4,9 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
+  images: {
+    domains:['github.com','res.cloudinary.com','media.rawg.io']
+   }
 }
 
 export default nextConfig

@@ -1,18 +1,16 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Next.js",
+  name: "Cache Shoop",
   description:
-    "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "Bienvenidos, Unlock a World of Gaming Delights!",
   mainNav: [
     {
-      title: "Home",
+      title: "Videojuegos",
       href: "/",
     },
   ],
   links: {
-    twitter: "https://twitter.com/shadcn",
-    github: "https://github.com/shadcn/ui",
-    docs: "https://ui.shadcn.com",
+    instagram: "https://www.instagram.com/cacheshoop",
   },
 }
